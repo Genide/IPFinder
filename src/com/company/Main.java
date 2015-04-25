@@ -18,7 +18,7 @@ public class Main {
         String url;
         InetAddress address;
         String ip;
-        Path file = Paths.get("C:\\Users\\Daniel\\Dropbox\\COSC 4335 (Data Mining)\\Assignment 3\\safepages.txt");
+        Path file = Paths.get("Your Path Here");
         int i=0;
 
         Charset charset = Charset.forName("US-ASCII");
